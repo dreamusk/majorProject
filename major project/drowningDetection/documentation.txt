@@ -1,0 +1,20 @@
+install anaconda 
+open the anaconda terminal 
+install all the requires dependencies 
+the code file save in the path of the anconda 
+cd to open file in the anaconda terminal
+insert the cable is the cpu and then run the commmands in the anaconda terminal 
+python main.py
+
+------------------------------------------------------------------------------------------------
+botfather configuration in the python file first 
+create the bot by typing botfather in telegram after that type /newbot
+once you followed necessary action now you could easily got the token id and now chatid remain
+for chat id vist https://api.telegram.org/bot5883766043:AAEWt8VrR_-pMehPe1FYd1zOKf_oMMY33Ug/getUpdates 
+this is the link for SwimSafe but for anyother bot you will require 
+https://api.telegram.org/bot<your-bot-token>/getUpdates this syntax
+after visting the link click on restart 
+/start in your created bot i.e SwimSafe
+now you will get the chat id now put this all in the python file and your bot is ready if any object is 
+missing than message will be sended
+
