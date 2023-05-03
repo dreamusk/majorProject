@@ -1,4 +1,8 @@
 # majorProject
+this link consist of videos/ text and other resources related to project 
+it consist of video of working model![WhatsApp Image 2023-05-03 at 21 09 40](https://user-images.githubusercontent.com/98980994/235967186-cec6c37e-e822-4320-80cc-fc56e627c4ee.jpg)
+
+https://drive.google.com/drive/folders/1-2-h6Zdy2koB8YeKkJOMCJ9JH2vl0B44?usp=share_link
 
 Nowadays swimming pools are everywhere, Like in homes, restaurant, clubs. There will be 
 lifeguard at every pool and many swimmers in the swimming pool also, but after that also there are 
